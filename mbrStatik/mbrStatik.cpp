@@ -8,6 +8,8 @@ public:
     int id;
     string nama;
 
+    void setID();
+    
 };
 
 int main()
